@@ -12,7 +12,7 @@ A fast and reliable API that detects disposable, temporary, and fake email addre
 ## Links
 
 - **RapidAPI**: https://rapidapi.com/Hamza9777/api/disposable-email-detector11
-- **Developer**: Hamza
+- **Developer**: UserPc-hub
 
 ## License
 
